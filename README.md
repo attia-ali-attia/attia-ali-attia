@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi I'm Attia Ali</h1>
+<h1 align="center">Hi I'm Attia Ali👋</h1>
 
 
 <p align="center">
@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 <a href="https://www.freelancer.com/u/Attiaali" target="_blank"><img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white" alt="Facebook"></a>
 </p>
 
-📝👩‍💻I am a talented Android Developer with +2 years of expertise in software development and design, always trying to improve my skills and discover new technologies to do better in my work. I love to make things simple, easy, and functional.
+📝I am a talented Android Developer with +2 years of expertise in software development and design, always trying to improve my skills and discover new technologies to do better in my work. I love to make things simple, easy, and functional.
 
 💪 My professional skills: Kotlin, Android SDK, MVVM/ Clean Architecture, RESTful services, Material Design, Room, Dagger/Hilt, Android Jetpack (Navigation, WorkManager), Git/Github.
+
+🔭 I’m currently working on an arabic educational app called "Alataa - العطاء".
+
+🌱 I’m currently learning Instrumentation & Integration Testing.
+
+💬 Ask me about anything related to native android development.
