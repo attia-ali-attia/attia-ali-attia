@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 aligh="center">Hi I'm Attia Ali</h1>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/attia-ali-attia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.freelancer.com/u/Attiaali" target="_blank"><img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white" alt="Facebook"></a>
+</p>
